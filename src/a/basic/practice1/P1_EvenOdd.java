@@ -1,4 +1,4 @@
-package Java_basic_practice;
+package a.basic.practice1;
 
 public class P1_EvenOdd {
     public static void main(String[] args) {

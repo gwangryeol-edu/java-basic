@@ -1,4 +1,4 @@
-package Java_basic_practice;
+package a.basic.practice1;
 
 public class P3_LeapYear {
     public static void main(String[] args) {

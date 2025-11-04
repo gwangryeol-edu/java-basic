@@ -1,3 +1,5 @@
+package a.basic;
+
 public class Variable {
     public static void main(String[] args) {
         // 작은 타입 → 큰 타입: 자동 변환
